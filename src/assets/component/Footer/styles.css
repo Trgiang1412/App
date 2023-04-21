@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 2rem;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_download{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 1 10%;
+}
+.footer_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1
+}
+.footer_list ul {
+    list-style: none;
+    font-family: 'Inter', sans-serif;
+}
+.footer_list ul li {
+    cursor: pointer;
+    color: #656C78;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 2.5;
+}

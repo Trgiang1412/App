@@ -1,0 +1,25 @@
+.header {
+    background-color: #FFFFFF;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 16px;
+}
+.header_logo{
+    float: left;
+    margin-left: 2rem;
+}
+.header_bt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+.header_bt_search{
+    margin-left: 2rem;
+    cursor: pointer;
+    
+}
